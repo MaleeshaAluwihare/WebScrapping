@@ -1,0 +1,4 @@
+scrapy startproject bookscraper - create a scraper project
+
+scrapy genspider bookspider books.toscrape.com - create a spider(bookspider is the name of the spider) final code is the website link
+
